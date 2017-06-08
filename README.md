@@ -22,11 +22,6 @@ Install Django:
 pip install django
 ```
 
-Install Pillos:
-```
-pip install Pillow
-```
-
 ## Installation
 ```
 git clone https://github.com/solanum-tuberosums/djangazon.git
